@@ -1,0 +1,1 @@
+void condition (int n, int j);
