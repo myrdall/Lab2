@@ -1,6 +1,7 @@
 language: cpp
+compiler: g++
 
+dist: xenial
 
 script:
-
-  -make
+    - git xargs clang-format -i && git diff --exit-code
