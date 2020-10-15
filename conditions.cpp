@@ -3,6 +3,8 @@
 
 using namespace std;
 
+
+
 void conditions(int n, int j){
 
     int percent, income, percent_amount;
