@@ -1,5 +1,6 @@
 #include "functions.h"
 #include <iostream>
+#include <windows.h>
 
 using namespace std;
 
